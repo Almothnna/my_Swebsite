@@ -1,0 +1,106 @@
+body{
+    background-color: #494949;
+background-repeat: repeat-y;
+background-image: url(IMG_9290.jpg);
+background-size: 50% auto;
+width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+
+
+}
+
+.form1 {
+
+margin-left: 15em;
+max-width: 20em;
+margin-top: 3em;
+
+
+}
+
+.form2 {       
+margin-left: 5em;
+padding:  1.75em;
+max-width: 20em;
+margin-top: 5em;   
+    }
+
+
+h3{
+
+font-family: 'Lato', sans-serif;
+margin: auto;
+width: 300px;
+color: #04d6e6;
+font-size: 2em;
+font-weight: 300;
+letter-spacing: 0.1em;
+}
+
+
+.button1{
+border-radius: 40%;
+background-color: #0bafbb;
+color: rgb(10, 10, 10);
+border: none;
+outline: 100px;
+
+padding: 10%;
+margin: 10%;
+font-size: 150%;
+transition-duration: 0.5s;
+cursor: pointer;
+display: inline;
+box-shadow: 3px 3px 7px #333;
+}
+
+.button2{
+    border-radius: 40%;
+    background-color: #0bafbb;
+    color: rgb(0, 0, 0);
+    border: none;
+    outline: 100px;
+    padding: 10%;
+    margin: 10%;
+    font-size: 150%;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    display: inline;
+    box-shadow: 3px 3px 7px #333;
+    }
+
+    .button3{
+        border-radius: 40%;
+        background-color: #0bafbb;
+        color: rgb(0, 0, 0);
+        border: none;
+        outline: 100px;
+        padding: 10%;
+        margin: 10%;
+        margin-top: 2em;
+        font-size: 150%;
+        transition-duration: 0.5s;
+        cursor: pointer;
+        display: inline;
+        box-shadow: 3px 3px 7px #333;
+        }    
+   
+
+.button1:hover {
+background-color: #0a6e75;
+color: white;
+transform: scale(1.1);
+}
+
+.button2:hover {
+    background-color: #0a6e75;
+    color: white;
+    transform: scale(1.1);
+    }
+    .button3:hover {
+        background-color: #0a6e75;
+        color: white;
+        transform: scale(1.1);
+        }
